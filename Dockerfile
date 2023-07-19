@@ -5,7 +5,7 @@
 FROM grafana/grafana
 
 #FIRST COPY THE PLUGIN SRC
-COPY . /var/lib/grafana/plugins
+COPY . /var/lib/grafana/plugins/grafana4sepa
 
 #SET DEV MODE, NEEDED TO RUN UNSIGNED PLUGINS
 ENV GF_DEFAULT_APP_MODE=development

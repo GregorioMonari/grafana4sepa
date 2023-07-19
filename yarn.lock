@@ -9890,12 +9890,7 @@
   "resolved" "https://registry.npmjs.org/slate-prop-types/-/slate-prop-types-0.5.44.tgz"
   "version" "0.5.44"
 
-"slate-react-placeholder@^0.2.8":
-  "integrity" "sha512-YSJ9Gb4tGpbzPje3eNKtu26hWM8ApxTk9RzjK+6zfD5V/RMTkuWONk24y6c9lZk0OAYNZNUmrnb/QZfU3j9nag=="
-  "resolved" "https://registry.npmjs.org/slate-react-placeholder/-/slate-react-placeholder-0.2.9.tgz"
-  "version" "0.2.9"
-
-"slate-react-placeholder@^0.2.9":
+"slate-react-placeholder@^0.2.8", "slate-react-placeholder@^0.2.9":
   "integrity" "sha512-YSJ9Gb4tGpbzPje3eNKtu26hWM8ApxTk9RzjK+6zfD5V/RMTkuWONk24y6c9lZk0OAYNZNUmrnb/QZfU3j9nag=="
   "resolved" "https://registry.npmjs.org/slate-react-placeholder/-/slate-react-placeholder-0.2.9.tgz"
   "version" "0.2.9"
